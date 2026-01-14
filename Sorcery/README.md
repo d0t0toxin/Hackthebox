@@ -226,7 +226,7 @@ Encoded:        $argon2id$v=19$m=32768,t=2,p=1$cmFuZHNhbHQ$4yRiJAiNhC+JLhoZPHnam
 Verification ok
 ```
 
-### B. Satisfying your Rust macro’s hard‑coded expectations for shape, name, and type of the query result-
+### B. Satisfying our Rust macro’s hard‑coded expectations for shape, name, and type of the query result-
 
 From your **`Model` derive macro**, look at `from_row`:
 
